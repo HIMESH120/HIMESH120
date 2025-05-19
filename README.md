@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"  width=""200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on **ATM Machine project **
+- 🔭 I’m currently working on **MY PORTFOLIO**
 
 - 🌱 I’m currently learning **React.js & MongoDB**
 
